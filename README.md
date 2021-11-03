@@ -7,6 +7,10 @@ A static site generator based on hanzzok
 - zola
 - astro
 - solid.js + vite + typescript + lucy + sql.js-httpvfs
+- next.js + typescript + lucy + sql.js-httpvfs
+
+- tauri?
+- [gmrchk/blobity](https://github.com/gmrchk/blobity)
 
 ## Feature Requirements
 
